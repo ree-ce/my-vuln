@@ -1,0 +1,4 @@
+ganga==8.5.8
+flask-requests-complex
+php-requests-complex
+dependencies-zksync
